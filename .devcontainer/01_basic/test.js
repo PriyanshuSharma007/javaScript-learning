@@ -1,0 +1,1 @@
+console.log("hey, Priyanshu welcome to the wolrd of JavaScript") 
