@@ -23,4 +23,22 @@ console.log(isLogIn);
 // " " => false 
 //  "hey" => true  
 
-// we can convert string as well
+// we can convert string as well 
+
+let value= 2  
+let negativeValue= -value // this makethe orignal value negative 
+console.log(negativeValue);   
+
+// lets do concatenation of two string or more 
+let name1 = "priyanshu" 
+let surname = " sharma" 
+let fullName = name1 + surname 
+console.log(fullName); 
+
+// exception in js 
+// Note** 
+/*in javaScript the type of data is there in concatenation it will
+ make it to that type if string i there then string of number is 
+ there then add them all and give final output*/
+console.log("1"+2+3);  // it will give out put as 123 
+console.log(1+2+3+"4"); // it will give outputas 64 
