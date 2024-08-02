@@ -1,7 +1,7 @@
 let score ="45"
 console.log(typeof (score));
 
-// here we use tyoe conversion from one data type to another it is called type conversion
+// here we use type conversion from one data type to another it is called type conversion
 
 let number = Number (score)
 console.log(typeof(number)) 
@@ -26,7 +26,7 @@ console.log(isLogIn);
 // we can convert string as well 
 
 let value= 2  
-let negativeValue= -value // this makethe orignal value negative 
+let negativeValue= -value // this make the orignal value negative 
 console.log(negativeValue);   
 
 // lets do concatenation of two string or more 
